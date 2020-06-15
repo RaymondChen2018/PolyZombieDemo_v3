@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "PolyZombiE",
+"productVersion": "1.0",
+"dataUrl": "Webgl3.data.unityweb",
+"wasmCodeUrl": "Webgl3.wasm.code.unityweb",
+"wasmFrameworkUrl": "Webgl3.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Webgl3.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.9f1"
+}
